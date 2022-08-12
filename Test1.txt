@@ -1,5 +1,0 @@
-Test1.txt wurde überarbeitet um 17:17
-Test1.txt wurde überarbeitet um 17:52
-Test1.txt wurde überarbeitet um 18:00
-Test1.txt wurde überarbeitet um 18:08
-Test1 von Github modifiziert am 11.08.2022 um 18:21
